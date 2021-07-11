@@ -6,3 +6,6 @@ This is for a future drawing project in pygame where eventually will become a fu
 
 
 The other text files are just values I've gotten from every iteration, I thought I could maybe pull something from that, but in the end I dont really want to pull from the text files, I want to have like a function for it, because I feel the function might be faster than the looking in the text file, I could load the entire text file into a dictionary or something but that would requre too much RAM, I want to keep this projecton the light side. 
+
+
+Something else to keep in mind is that I found this script on the internet. If you had an suggestions on chnaging it or making it faster that would be cool too.
